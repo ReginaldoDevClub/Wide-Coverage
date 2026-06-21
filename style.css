@@ -1,0 +1,75 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+ }
+
+ header {
+color: #17233D; 
+margin: 42px 0 0 47px;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0.88px;
+
+
+
+ }
+ 
+ .products {
+    margin-right: 32px;
+ }
+
+
+.button { 
+    width: 124px;
+    height: 51px;
+    opacity: 1;
+    border: none;
+    background: #6FBF44;
+    border-radius: 6px;
+    color: #FFFFFF ;
+    font-size: 16px;
+    }
+
+    .container { 
+
+        display:inline-block;
+        margin-left: 84.82px;
+    }
+
+    h1{
+        font-weight: 700;
+        font-size: 62px;
+        line-height: 82px;
+        letter-spacing: 0.6px;
+        width: 582px;
+        color: #161A49;
+
+
+    }
+    
+    p{
+        width: 493px;
+        opacity: 1;
+        color: #4B505A;
+margin-top: 47px;
+margin-bottom: 55px;
+    }
+
+.learn {
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 100%;
+        letter-spacing: 1px;
+        color: #6FBF44;
+        border: none;
+        background: transparent;
+
+}
+
+     .img { 
+
+        display: position;
+    }
